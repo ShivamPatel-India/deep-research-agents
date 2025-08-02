@@ -70,7 +70,7 @@ The system consists of five specialized AI agents working in concert:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/deep-research-agents.git
+   git clone https://github.com/ShivamPatel-India/deep-research-agents.git
    cd deep-research-agents
    ```
 
