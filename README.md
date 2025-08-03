@@ -1,3 +1,9 @@
+---
+title: deep-research-agents
+app_file: deep_research/deep_research.py
+sdk: gradio
+sdk_version: 5.34.2
+---
 # Deep Research AI 🔬🤖
 
 An intelligent multi-agent research system that conducts comprehensive web research and delivers detailed reports automatically. Built with OpenAI's Agents SDK, this system orchestrates multiple AI agents to plan, search, synthesize, and deliver research findings.
